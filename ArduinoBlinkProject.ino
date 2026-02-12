@@ -11,3 +11,8 @@ void loop() {
   digitalWrite(LED_PIN, LOW);   
   delay(2500);                      
 }
+
+void blinkSOS() {
+
+  
+}
